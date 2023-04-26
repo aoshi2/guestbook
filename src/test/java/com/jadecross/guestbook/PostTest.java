@@ -1,4 +1,3 @@
-#TEST unit
 package com.jadecross.guestbook;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
